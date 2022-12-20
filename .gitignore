@@ -1,0 +1,4 @@
+# tells git which files to not upload
+.vscode
+*.o
+*.out
