@@ -15,7 +15,7 @@ I have overloaded the << operator so that you can simply do
 to print your array.
 */
 
-std::ostream& operator<<(std::ostream& os, my_array arr) {
+std::ostream& operator<<(std::ostream& os, my_array& arr) {
     os << '{';
     if (arr.size() > 0) os << arr[0];
     for (int i = 1; i < arr.size(); i++) {
