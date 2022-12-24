@@ -52,7 +52,7 @@ Some useful commands are:
 
 Once you have access to a linux shell, install git by running `sudo apt install git` in the terminal.
 
-Download this git repository by running `git clone git@github.com:1Pokeman1/AggieSatHW.git` in the directory you want it.
+Download this git repository by running `git clone https://github.com/1Pokeman1/AggieSatHW.git` in the directory you want it.
 
 # Compilation
 
