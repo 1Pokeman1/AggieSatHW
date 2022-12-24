@@ -2,3 +2,6 @@
 .vscode
 *.o
 *.out
+main
+solution.*
+hw2
