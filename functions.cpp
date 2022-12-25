@@ -41,7 +41,7 @@ int main() {
 
     // adds one to c b/c c is passed as a reference
     add_one(c);
-    // const b/c c is not being changed
+    // const b/c c is not being changed inside the function
     cprint_num(c);
 }
 

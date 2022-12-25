@@ -20,6 +20,20 @@ If something doesn't make sense, seems very vague, or you have some other proble
 I am available all break if you want to talk or need any help at all. I am an ENGR 102 PT, it takes a lot to annoy me so please ask questions.
 Feel free to work together, AggieSat is a team project and no one should have to go it alone.
 
+# IDE
+
+I, personally, use [VSCode](https://code.visualstudio.com/) (not Visual Studio) for developing in C++.
+
+It has useful extensions for interacting with WSL (see below) and code completion/syntax highlighting.
+
+Some extensions you will find helpful:
+- Intellicode
+- C/C++ Extension Pack
+- WSL
+
+Once you've installed the WSL extension and activated WSL,
+press the green button in the bottom left of VSCode and select `New WSL Window` to open VSCode in WSL mode.
+
 # WSL
 
 If you're using Windows, activate WSL.
