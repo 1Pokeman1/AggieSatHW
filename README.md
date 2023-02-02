@@ -94,6 +94,10 @@ The following arguments may be added to increase the number of warnings the comp
 Ideally your g++ command should look something like `g++ -Wall -Wextra -pedantic -std=c++17 [input file name(s)] -o [output file name]`,
 but `g++ -std=c++17 [input file name(s)] -o [output file name]` is fine.
 
+## Running a compiled program
+
+In the terminal, run `./[output file name]`
+
 ## Valgrind
 
 Valgrind is a program that watches the memory usage of a program as it runs and reports if it finds any leaks.
